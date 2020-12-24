@@ -1,5 +1,3 @@
-# Stanford-University-Machine-Learning-Course---Professor-Andrew-Ng
-
 This repository contains the lecture notes and my programming assignments for the machine learning course of professor Andrew Ng from Standford University 
 
 The certificate and more information can be found here:
