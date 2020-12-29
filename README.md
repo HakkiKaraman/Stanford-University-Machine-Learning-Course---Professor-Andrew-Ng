@@ -24,6 +24,7 @@ Week 10: Large Scale Machine Learning
 
 Week 11: Application Example: Photo OCR
 
+
 The certificate and more information can be found here:
 
 https://www.coursera.org/account/accomplishments/verify/CUX4HXG78738
