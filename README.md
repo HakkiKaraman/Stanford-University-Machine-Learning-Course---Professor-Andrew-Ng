@@ -1,7 +1,9 @@
 This repository contains the lecture notes and my programming assignments for the machine learning course of professor Andrew Ng from Standford University.
 
 Syllabus:
+
 Week 1: Introduction, Linear Regression with One Variable, Linear Algebra Review
+
 Week 2: Linear Regression with Multiple Variables, Octave/Matlab Tutorial
 Week 3: Logistic Regression, Regularization
 Week 4: Neural Networks: Representation
